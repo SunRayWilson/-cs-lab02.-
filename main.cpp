@@ -26,4 +26,6 @@ else
     min=b;
 cout << "Min="<<min;
 
+cout << "A * B = " << a * b << '\n';
+
 }
